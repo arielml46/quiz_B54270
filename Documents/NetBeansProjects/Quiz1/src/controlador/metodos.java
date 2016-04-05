@@ -80,10 +80,6 @@ public class metodos {
         
         matcher.find();
         
-        
-        
-       ventana.jTextField2.setText(linea);
-        
             linea= matcher.group(1)/matcher.group(2);
     }
             
